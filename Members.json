@@ -1,0 +1,32 @@
+{
+  "Members": [
+    {
+      "Name": "Nick",
+      "NumberOfShares": 5.0,
+      "Amount": 40000.0,
+      "Symbol": "N",
+      "DateTime": "8/2/2023 8:37:35 PM"
+    },
+    {
+      "Name": "Raju",
+      "NumberOfShares": 3.0,
+      "Amount": 25500.0,
+      "Symbol": "RJ",
+      "DateTime": "8/2/2023 8:56:36 PM"
+    },
+    {
+      "Name": "Ram",
+      "NumberOfShares": 0.0,
+      "Amount": 40000.0,
+      "Symbol": "R",
+      "DateTime": "8/2/2023 9:05:32 PM"
+    },
+    {
+      "Name": "Sai",
+      "NumberOfShares": 0.0,
+      "Amount": 60000.0,
+      "Symbol": "SK",
+      "DateTime": "8/2/2023 8:34:47 PM"
+    }
+  ]
+}

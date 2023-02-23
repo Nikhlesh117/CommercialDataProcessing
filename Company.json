@@ -1,0 +1,19 @@
+{
+  "Company": [
+    {
+      "StockName": "Reliance",
+      "Shares": 635.0,
+      "SharePrice": 2000.0
+    },
+    {
+      "StockName": "Tata",
+      "Shares": 370.0,
+      "SharePrice": 3000.0
+    },
+    {
+      "StockName": "Adani",
+      "Shares": 551.0,
+      "SharePrice": 1500.0
+    }
+  ]
+}
